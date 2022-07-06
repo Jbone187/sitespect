@@ -28,8 +28,8 @@ pullValue(function (line_data) {
   }
 
   console.table({
-    Month: line_data[0],
-    Date: line_data[1],
+    "Month": line_data[0],
+    "Date": line_data[1],
     "Name of Process": line_data[3],
     "Line Number": line_number,
     "Process ID": line_data[4],

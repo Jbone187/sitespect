@@ -1,3 +1,3 @@
 # sitespect
 
-![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+![ezcv logo](https://github.com/Jbone187/sitespect/blob/main/2022-07-05_19-46.png)
